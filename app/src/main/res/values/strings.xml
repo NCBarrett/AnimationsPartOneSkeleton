@@ -33,4 +33,6 @@
     <string name="clock_string_description">clock description</string>
     <string name="moon_description">circle around</string>
     <string name="earth_description">earth in center</string>
+    <string name="textview">TextView</string>
+    <string name="picture_of_mars">Picture of Mars</string>
 </resources>

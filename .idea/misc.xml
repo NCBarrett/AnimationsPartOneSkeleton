@@ -8,7 +8,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudio/AnimationsPartOneSkeleton/app/src/main/res/layout/activity_circular_positioning.xml" value="0.18070652173913043" />
+        <entry key="..\:/AndroidStudio/AnimationsPartOneSkeleton/app/src/main/res/layout/activity_first_constraint_set.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/AnimationsPartOneSkeleton/app/src/main/res/layout/activity_main.xml" value="0.18070652173913043" />
         <entry key="..\:/AndroidStudio/AnimationsPartOneSkeleton/app/src/main/res/layout/activity_place_holder_example.xml" value="0.23854166666666668" />
+        <entry key="..\:/AndroidStudio/AnimationsPartOneSkeleton/app/src/main/res/layout/first_constraint_set_end.xml" value="0.25" />
       </map>
     </option>
   </component>
